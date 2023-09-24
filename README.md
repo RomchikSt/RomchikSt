@@ -20,7 +20,7 @@ src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="Re
   - Styled-Components
   - Babel
   - Vite
-  - ESLint and Prettier
+  - ESLint
  
  [![codewars](https://www.codewars.com/users/RomchikSt/badges/small)](https://www.codewars.com/users/RomchikSt)
  
