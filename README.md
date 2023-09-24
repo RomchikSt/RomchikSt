@@ -8,17 +8,8 @@
 
 #
 
-### Vue JS tech stack
-  - VueJS 2
-  - VueJS 3
-  - Router
-  - Axios
-  - Vuex
-  - Pinia
-  - Nuxt JS
-  - Options API
-  - Composition API
-  - Bootstrap-Vue
+### React JS tech stack
+  - 
  
  [![codewars](https://www.codewars.com/users/RomchikSt/badges/large)](https://www.codewars.com/users/RomchikSt)
  
