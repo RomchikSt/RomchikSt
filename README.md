@@ -27,11 +27,10 @@
   - Composition API
   - Bootstrap-Vue
  
- [![codewars](https://www.codewars.com/users/Viktoriia-Piskova/badges/micro)](https://www.codewars.com/users/Viktoriia-Piskova)
  [![codewars](https://www.codewars.com/users/RomchikSt/badges/large)](https://www.codewars.com/users/RomchikSt)
  
 
  
 ### Contact me
 
-[![TG](https://img.shields.io/badge/-Telegram-0d1117?style=for-the-badge&logo=telegram)](https://t.me/viktoriapiskova) [![GMAIL](https://img.shields.io/badge/-Gmail-0d1117?style=for-the-badge&logo=gmail)](https://viktoriapiskova@gmail.com)
+[![TG](https://img.shields.io/badge/-Telegram-0d1117?style=for-the-badge&logo=telegram)](https://t.me/SwordRain) [![GMAIL](https://img.shields.io/badge/-Gmail-0d1117?style=for-the-badge&logo=gmail)](https://roma.stakhiv@gmail.com)
