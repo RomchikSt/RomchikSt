@@ -22,7 +22,7 @@ src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="Re
   - Vite
   - ESLint and Prettier
  
- [![codewars](https://www.codewars.com/users/RomchikSt/badges/large)](https://www.codewars.com/users/RomchikSt)
+ [![codewars](https://www.codewars.com/users/RomchikSt/badges/small)](https://www.codewars.com/users/RomchikSt)
  
 
  
