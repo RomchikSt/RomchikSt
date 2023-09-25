@@ -19,9 +19,6 @@ src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="Re
   - Tailwind CSS
   - CSS Modules
   - Styled-Components
-  - Babel
-  - Vite
-  - ESLint
  
  [![codewars](https://www.codewars.com/users/RomchikSt/badges/small)](https://www.codewars.com/users/RomchikSt)
  
