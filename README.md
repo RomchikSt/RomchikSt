@@ -16,6 +16,8 @@ src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="Re
   - React Query
   - React Router
   - Context API
+  - Socket.IO
+  - React Testing Library
   - Tailwind CSS
   - CSS Modules
   - Styled-Components
