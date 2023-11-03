@@ -14,6 +14,7 @@ src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="Re
   - React Hook Form
   - Redux Toolkit
   - React Query
+  - Axios
   - React Router
   - Context API
   - React Testing Library
