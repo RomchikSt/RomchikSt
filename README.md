@@ -24,6 +24,7 @@ src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="Re
   - React Router
   - Context API
   - React Testing Library
+  - Material UI
   - Tailwind CSS
   - CSS Modules
   - Styled-Components
