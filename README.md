@@ -18,7 +18,7 @@ src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="Re
 
 #
 
-### React JS tech stack
+### React JS/TS tech stack
   - React Hooks
   - React Hook Form
   - React Router
