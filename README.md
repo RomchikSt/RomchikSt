@@ -27,8 +27,7 @@ src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="Re
   - Context API
   - Redux Toolkit (Thunk/Saga)
   - React Query
-  - Axios
-  - Next.js <!-- - Three.js-->
+  - Axios <!-- - Next.js  - Three.js-->
   - React Testing Library
   - Material UI
   - Tailwind CSS
