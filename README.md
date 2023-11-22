@@ -29,6 +29,7 @@ src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="Re
   - React Query
   - Axios  
   - Next.js <!-- - Three.js-->
+  - Framer Motion
   - React Testing Library
   - Material UI
   - Tailwind CSS
