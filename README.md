@@ -26,7 +26,7 @@ src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="Re
   - React Hook Form
   - React Router
   - Context API
-  - Redux Toolkit (Thunk/Saga)
+  - Redux Toolkit
   - React Query
   - Axios  
   - Next.js <!-- - Three.js-->
