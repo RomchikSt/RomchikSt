@@ -29,10 +29,10 @@ src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="Re
   - Redux Toolkit
   - React Query
   - Axios  
-  - Next.js <!-- - Three.js-->
+  - Next.js
   - Framer Motion
   - i18next
-  - React Testing Library
+  - React Testing Library(Jest & Vitest)
   - Material UI
   - Tailwind CSS
   - CSS Modules
