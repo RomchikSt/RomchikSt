@@ -27,8 +27,7 @@ src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="Re
   - React Router
   - Redux Toolkit
   - React Query
-  - Axios  
-  - Next.js
+  - Axios
   - Framer Motion
   - i18next
   - React Testing Library(Jest & Vitest)
