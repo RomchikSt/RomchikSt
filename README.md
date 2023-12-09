@@ -30,7 +30,7 @@ src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="Re
   - Axios
   - Framer Motion
   - i18next
-  - React Testing Library(Jest & Vitest)
+  - Next.js
   - Material UI
   - Tailwind CSS
   - CSS Modules
