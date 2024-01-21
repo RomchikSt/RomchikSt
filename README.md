@@ -25,7 +25,7 @@ src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="Re
   - React Hooks
   - React Hook Form
   - React Router
-  - Redux Toolkit
+  - Redux Toolkit (Thunk/Saga)
   - React Query
   - Axios
   - Framer Motion
