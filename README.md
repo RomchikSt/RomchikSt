@@ -29,15 +29,8 @@
 
 <br><br>
 
-### React JS/TS tech stack
-  - React Hooks
-  - React Hook Form
-  - React Router
-  - React Query
-  - Axios
+### React UI frameworks
   - Framer Motion
-  - i18next
-  - Next.js
   - Material UI
   - Tailwind CSS
   - CSS Modules
