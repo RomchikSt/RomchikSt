@@ -7,8 +7,7 @@
 <img align="left" height="30px" style="padding-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React">
 <img align="left" height="30px" style="padding-right:10px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/redux-icon.png" alt="Redux">
 <img align="left" height="30px" style="padding-right:10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu9sdFniCDcmhjyToH66mIjzMqIJVHU2LoN7J-5a1QzvrGlsTOxI9gTz0YW1iEJdCZ_S8&usqp=CAU" alt="Next.js">
-<img align="left" height="30px" style="padding-right:10px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git">
-<img align="left" height="30px" style="padding-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/240px-Vitejs-logo.svg.png" alt="vite">
+
 
 
 <br>
@@ -36,6 +35,8 @@
 <img align="left" height="30px" style="padding-right:10px" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/ansible_logo_icon_145495.png" alt="Ansible">
 <img align="left" height="30px" style="padding-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/2109px-Kubernetes_logo_without_workmark.svg.png" alt="Kubernetes">
 <img align="left" height="30px" style="padding-right:10px" src="https://static-00.iconduck.com/assets.00/google-cloud-icon-2048x1646-7admxejz.png" alt="Google Clouds">
+<img align="left" height="30px" style="padding-right:10px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git">
+<img align="left" height="30px" style="padding-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/240px-Vitejs-logo.svg.png" alt="vite">
 
 
 
