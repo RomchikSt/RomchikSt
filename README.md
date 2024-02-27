@@ -45,6 +45,7 @@
 
 ### React UI frameworks
   - Framer Motion
+  - tsparticles
   - Material UI
   - Tailwind CSS
   - CSS Modules
