@@ -20,13 +20,6 @@
 <img align="left" height="30px" style="padding-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1024px-GraphQL_Logo.svg.png" alt="GraphQL">
 <img align="left" height="30px" style="padding-right:10px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png" alt="mangoDB">
 <img align="left" height="30px" style="padding-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/f/fd/DynamoDB.png" alt="DynamoDB">
-<img align="left" height="30px" style="padding-right:10px" src="https://cdn.worldvectorlogo.com/logos/aws-iam.svg" alt="IAM">
-<img align="left" height="30px" style="padding-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Amazon-S3-Logo.svg/1200px-Amazon-S3-Logo.svg.png" alt="S3">
-<img align="left" height="30px" style="padding-right:10px" src="https://brandslogos.com/wp-content/uploads/images/large/aws-rds-logo.png" alt="RDS">
-<img align="left" height="30px" style="padding-right:10px" src="https://static-00.iconduck.com/assets.00/aws-ec2-icon-1696x2048-nhw31ife.png" alt="EC2">
-<img align="left" height="30px" style="padding-right:10px" src="https://cdn.worldvectorlogo.com/logos/aws-lambda-1.svg" alt="lambda">
-<img align="left" height="30px" style="padding-right:10px" src="https://static-00.iconduck.com/assets.00/aws-ses-simple-email-service-icon-439x512-g8w8m5be.png" alt="ses">
-<img align="left" height="30px" style="padding-right:10px" src="https://static-00.iconduck.com/assets.00/aws-route53-icon-423x512-3ohbrj3h.png" alt="route53">
 <img align="left" height="30px" style="padding-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/2048px-Socket-io.svg.png" alt="Socket.IO">
 <img align="left" height="30px" style="padding-right:10px" src="https://cdn.freebiesupply.com/logos/large/2x/mysql-5-logo-png-transparent.png" alt="MySQL">
 <img align="left" height="30px" style="padding-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/120px-Postgresql_elephant.svg.png" alt="Postgresql">
