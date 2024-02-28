@@ -7,8 +7,10 @@
 <img align="left" height="30px" style="padding-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React">
 <img align="left" height="30px" style="padding-right:10px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/redux-icon.png" alt="Redux">
 <img align="left" height="30px" style="padding-right:10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu9sdFniCDcmhjyToH66mIjzMqIJVHU2LoN7J-5a1QzvrGlsTOxI9gTz0YW1iEJdCZ_S8&usqp=CAU" alt="Next.js">
-
-
+<img align="left" height="30px" style="padding-right:10px" src="https://pranavelric.dev/assets/tech_img/logo-remix.svg" alt="Next.js">
+<img align="left" height="30px" style="padding-right:10px" src="https://cdn3.iconfinder.com/data/icons/social-media-2068/64/_shopping-512.png" alt="Shopify">
+<img align="left" height="30px" style="padding-right:10px" src="https://cdn.icon-icons.com/icons2/3915/PNG/512/wix_logo_icon_249169.png" alt="Wix">
+<img align="left" height="30px" style="padding-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1024px-WordPress_blue_logo.svg.png" alt="Wix">
 
 <br>
 
