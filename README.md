@@ -21,9 +21,9 @@
 <img align="left" height="30px" style="padding-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" alt="NestJS">
 <img align="left" height="30px" style="padding-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1024px-GraphQL_Logo.svg.png" alt="GraphQL">
 <img align="left" height="30px" style="padding-right:10px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png" alt="mangoDB">
-<img align="left" height="30px" style="padding-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/f/fd/DynamoDB.png" alt="DynamoDB">
+<!-- <img align="left" height="30px" style="padding-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/f/fd/DynamoDB.png" alt="DynamoDB"> -->
 <img align="left" height="30px" style="padding-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/2048px-Socket-io.svg.png" alt="Socket.IO">
-<img align="left" height="30px" style="padding-right:10px" src="https://brandslogos.com/wp-content/uploads/images/large/aws-rds-logo.png" alt="RDS">
+<!-- <img align="left" height="30px" style="padding-right:10px" src="https://brandslogos.com/wp-content/uploads/images/large/aws-rds-logo.png" alt="RDS"> -->
 <img align="left" height="30px" style="padding-right:10px" src="https://cdn.freebiesupply.com/logos/large/2x/mysql-5-logo-png-transparent.png" alt="MySQL">
 <img align="left" height="30px" style="padding-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/120px-Postgresql_elephant.svg.png" alt="Postgresql">
 <img align="left" height="30px" style="padding-right:10px" src="https://github.com/RomchikSt/RomchikSt/assets/140477189/cb87c0a8-556e-45ab-b1c1-42697dac985e" alt="supabase">
@@ -35,8 +35,8 @@
 
 <img align="left" height="30px" style="padding-right:10px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/docker-icon.png" alt="docker">
 <img align="left" height="30px" style="padding-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" alt="AWS">
-<img align="left" height="30px" style="padding-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/742px-Jenkins_logo.svg.png" alt="Jenkins">
-<img align="left" height="30px" style="padding-right:10px" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/ansible_logo_icon_145495.png" alt="Ansible">
+<!-- <img align="left" height="30px" style="padding-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/742px-Jenkins_logo.svg.png" alt="Jenkins">
+<img align="left" height="30px" style="padding-right:10px" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/ansible_logo_icon_145495.png" alt="Ansible"> -->
 <img align="left" height="30px" style="padding-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/2109px-Kubernetes_logo_without_workmark.svg.png" alt="Kubernetes">
 <img align="left" height="30px" style="padding-right:10px" src="https://whatthelogo.com/storage/logos/webpack-272076.png" alt="webpack">
 <img align="left" height="30px" style="padding-right:10px" src="https://static-00.iconduck.com/assets.00/google-cloud-icon-2048x1646-7admxejz.png" alt="Google Clouds">
