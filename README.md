@@ -21,10 +21,10 @@
 <!-- <img align="left" height="30px" style="padding-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1024px-GraphQL_Logo.svg.png" alt="GraphQL"> -->
 <img align="left" height="30px" style="padding-right:10px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png" alt="mangoDB">
 <!-- <img align="left" height="30px" style="padding-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/f/fd/DynamoDB.png" alt="DynamoDB"> -->
-<img align="left" height="30px" style="padding-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/2048px-Socket-io.svg.png" alt="Socket.IO">
+<!-- <img align="left" height="30px" style="padding-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/2048px-Socket-io.svg.png" alt="Socket.IO"> -->
 <!-- <img align="left" height="30px" style="padding-right:10px" src="https://brandslogos.com/wp-content/uploads/images/large/aws-rds-logo.png" alt="RDS"> -->
-<!-- <img align="left" height="30px" style="padding-right:10px" src="https://cdn.freebiesupply.com/logos/large/2x/mysql-5-logo-png-transparent.png" alt="MySQL">
-<img align="left" height="30px" style="padding-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/120px-Postgresql_elephant.svg.png" alt="Postgresql"> -->
+<img align="left" height="30px" style="padding-right:10px" src="https://cdn.freebiesupply.com/logos/large/2x/mysql-5-logo-png-transparent.png" alt="MySQL">
+<!-- <img align="left" height="30px" style="padding-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/120px-Postgresql_elephant.svg.png" alt="Postgresql"> -->
 <img align="left" height="30px" style="padding-right:10px" src="https://github.com/RomchikSt/RomchikSt/assets/140477189/cb87c0a8-556e-45ab-b1c1-42697dac985e" alt="supabase">
 <img align="left" height="30px" style="padding-right:10px" src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="Postman">
 <br>
@@ -33,7 +33,7 @@
 
 
 <img align="left" height="30px" style="padding-right:10px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/docker-icon.png" alt="docker">
-<img align="left" height="30px" style="padding-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" alt="AWS">
+<!-- <img align="left" height="30px" style="padding-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" alt="AWS"> -->
 <!-- <img align="left" height="30px" style="padding-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/742px-Jenkins_logo.svg.png" alt="Jenkins">
 <img align="left" height="30px" style="padding-right:10px" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/ansible_logo_icon_145495.png" alt="Ansible"> -->
 <!-- <img align="left" height="30px" style="padding-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/2109px-Kubernetes_logo_without_workmark.svg.png" alt="Kubernetes">
@@ -42,7 +42,6 @@
 <img align="left" height="30px" style="padding-right:10px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git">
 <img align="left" height="30px" style="padding-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/240px-Vitejs-logo.svg.png" alt="vite">
 <img align="left" height="30px" style="padding-right:10px" src="https://static.wikia.nocookie.net/logopedia/images/a/a7/Vercel_favicon.svg/revision/latest?cb=20221026155821" alt="vercel">
-<img align="left" height="30px" style="padding-right:10px" src="https://static-00.iconduck.com/assets.00/heroku-icon-icon-1843x2048-hklv6w4m.png" alt="heroku">
 <img align="left" height="30px" style="padding-right:10px" src="https://seeklogo.com/images/N/netlify-icon-logo-7CF6AA9DC7-seeklogo.com.png" alt="netlify">
 
 
