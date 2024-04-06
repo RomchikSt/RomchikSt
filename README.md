@@ -46,6 +46,8 @@
 <img align="left" height="30px" style="padding-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/240px-Vitejs-logo.svg.png" alt="vite">
 <img align="left" height="30px" style="padding-right:10px" src="https://static.wikia.nocookie.net/logopedia/images/a/a7/Vercel_favicon.svg/revision/latest?cb=20221026155821" alt="vercel">
 <img align="left" height="30px" style="padding-right:10px" src="https://seeklogo.com/images/N/netlify-icon-logo-7CF6AA9DC7-seeklogo.com.png" alt="netlify">
+<img align="left" height="30px" style="padding-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/App_Store_%28iOS%29.svg/512px-App_Store_%28iOS%29.svg.png" alt="App Store">
+<img align="left" height="30px" style="padding-right:10px" src="https://seeklogo.com/images/G/google-play-store-logo-A9F117BED5-seeklogo.com.png" alt="Play Market">
 <br>
 
 ##
