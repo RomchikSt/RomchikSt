@@ -1,4 +1,4 @@
-### Tech stack
+### Tech stack (Dev & AQA)
 
 <img align="left" height="30px" style="padding-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/800px-HTML5_Badge.svg.png" alt="HTML 5">
 <img align="left" height="30px" style="padding-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/160px-CSS3_logo.svg.png" alt="CSS 3">
@@ -28,6 +28,8 @@
 <img align="left" height="30px" style="padding-right:10px" src="https://github.com/RomchikSt/RomchikSt/assets/140477189/cb87c0a8-556e-45ab-b1c1-42697dac985e" alt="supabase">
 <img align="left" height="30px" style="padding-right:10px" src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="Postman">
 <img align="left" height="30px" style="padding-right:10px" src="https://images.g2crowd.com/uploads/product/image/small_square/small_square_10f53e90961b98df0191922f13efd135/cypress.png" alt="cypress">
+<img align="left" height="30px" style="padding-right:10px" src="https://miro.medium.com/v2/resize:fit:1200/1*kRAO9brrHQNBzPMXIWU7IQ.png" alt="appium">
+<img align="left" height="30px" style="padding-right:10px" src="https://v6.webdriver.io/img/webdriverio.png" alt="appium">
 <br>
 
 ##
@@ -44,6 +46,14 @@
 <img align="left" height="30px" style="padding-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/240px-Vitejs-logo.svg.png" alt="vite">
 <img align="left" height="30px" style="padding-right:10px" src="https://static.wikia.nocookie.net/logopedia/images/a/a7/Vercel_favicon.svg/revision/latest?cb=20221026155821" alt="vercel">
 <img align="left" height="30px" style="padding-right:10px" src="https://seeklogo.com/images/N/netlify-icon-logo-7CF6AA9DC7-seeklogo.com.png" alt="netlify">
+<br>
+
+##
+
+
+
+
+<br>
 
 
 
