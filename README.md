@@ -28,8 +28,6 @@
 <img align="left" height="30px" style="padding-right:10px" src="https://github.com/RomchikSt/RomchikSt/assets/140477189/cb87c0a8-556e-45ab-b1c1-42697dac985e" alt="supabase">
 <img align="left" height="30px" style="padding-right:10px" src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="Postman">
 <img align="left" height="30px" style="padding-right:10px" src="https://images.g2crowd.com/uploads/product/image/small_square/small_square_10f53e90961b98df0191922f13efd135/cypress.png" alt="cypress">
-<img align="left" height="30px" style="padding-right:10px" src="https://miro.medium.com/v2/resize:fit:1200/1*kRAO9brrHQNBzPMXIWU7IQ.png" alt="appium">
-<img align="left" height="30px" style="padding-right:10px" src="https://v6.webdriver.io/img/webdriverio.png" alt="appium">
 <br>
 
 ##
