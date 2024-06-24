@@ -4,6 +4,7 @@
 <img align="left" height="30px" style="padding-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/160px-CSS3_logo.svg.png" alt="CSS 3">
 <img align="left" height="30px" style="padding-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" alt="JavaScript">
 <img align="left" height="30px" style="padding-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/128px-Typescript.svg.png" alt="Typescript">
+<img align="left" height="30px" style="padding-right:10px" src="https://upload.wikimedia.org/wikipedia/ru/3/39/Java_logo.svg" alt="Java">
 <img align="left" height="30px" style="padding-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React">
 <img align="left" height="30px" style="padding-right:10px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/redux-icon.png" alt="Redux">
 <img align="left" height="30px" style="padding-right:10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu9sdFniCDcmhjyToH66mIjzMqIJVHU2LoN7J-5a1QzvrGlsTOxI9gTz0YW1iEJdCZ_S8&usqp=CAU" alt="Next.js">
@@ -28,6 +29,8 @@
 <img align="left" height="30px" style="padding-right:10px" src="https://github.com/RomchikSt/RomchikSt/assets/140477189/cb87c0a8-556e-45ab-b1c1-42697dac985e" alt="supabase">
 <img align="left" height="30px" style="padding-right:10px" src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="Postman">
 <img align="left" height="30px" style="padding-right:10px" src="https://images.g2crowd.com/uploads/product/image/small_square/small_square_10f53e90961b98df0191922f13efd135/cypress.png" alt="cypress">
+<img align="left" height="30px" style="padding-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" alt="Selenium">
+<img align="left" height="30px" style="padding-right:10px" src="https://seeklogo.com/images/P/playwright-logo-22FA8B9E63-seeklogo.com.png" alt="playwright">
 <br>
 
 ##
