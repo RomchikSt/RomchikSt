@@ -31,6 +31,7 @@
 <img align="left" height="30px" style="padding-right:10px" src="https://images.g2crowd.com/uploads/product/image/small_square/small_square_10f53e90961b98df0191922f13efd135/cypress.png" alt="cypress">
 <img align="left" height="30px" style="padding-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" alt="Selenium">
 <img align="left" height="30px" style="padding-right:10px" src="https://seeklogo.com/images/P/playwright-logo-22FA8B9E63-seeklogo.com.png" alt="playwright">
+<img align="left" height="30px" style="padding-right:10px" src="https://static-00.iconduck.com/assets.00/appium-icon-255x256-5yix6ocd.png" alt="appium">
 <br>
 
 ##
