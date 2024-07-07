@@ -33,6 +33,7 @@
 <img align="left" height="30px" style="padding-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" alt="Selenium">
 <img align="left" height="30px" style="padding-right:10px" src="https://seeklogo.com/images/P/playwright-logo-22FA8B9E63-seeklogo.com.png" alt="playwright">
 <img align="left" height="30px" style="padding-right:10px" src="https://static-00.iconduck.com/assets.00/appium-icon-255x256-5yix6ocd.png" alt="appium">
+<img align="left" height="30px" style="padding-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1200px-Telegram_2019_Logo.svg.png" alt="telegramBot">
 <br>
 
 ##
