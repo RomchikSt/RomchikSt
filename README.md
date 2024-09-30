@@ -5,6 +5,7 @@
 <img align="left" height="30px" style="padding-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" alt="JavaScript">
 <img align="left" height="30px" style="padding-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/128px-Typescript.svg.png" alt="Typescript">
 <img align="left" height="30px" style="padding-right:10px" src="https://upload.wikimedia.org/wikipedia/ru/3/39/Java_logo.svg" alt="Java">
+<img align="left" height="30px" style="padding-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/711px-PHP-logo.svg.png" alt="php">
 <img align="left" height="30px" style="padding-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React">
 <img align="left" height="30px" style="padding-right:10px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/redux-icon.png" alt="Redux">
 <img align="left" height="30px" style="padding-right:10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu9sdFniCDcmhjyToH66mIjzMqIJVHU2LoN7J-5a1QzvrGlsTOxI9gTz0YW1iEJdCZ_S8&usqp=CAU" alt="Next.js">
