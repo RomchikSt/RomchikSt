@@ -49,6 +49,9 @@
 <img align="left" height="30px" style="padding-right:10px" src="https://seeklogo.com/images/N/netlify-icon-logo-7CF6AA9DC7-seeklogo.com.png" alt="netlify">
 <img align="left" height="30px" style="padding-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/App_Store_%28iOS%29.svg/512px-App_Store_%28iOS%29.svg.png" alt="App Store">
 <img align="left" height="30px" style="padding-right:10px" src="https://seeklogo.com/images/G/google-play-store-logo-A9F117BED5-seeklogo.com.png" alt="Play Market">
+<img align="left" height="30px" style="padding-right:10px" src="https://cdn.worldvectorlogo.com/logos/google-search-console.svg" alt="google search console">
+<img align="left" height="30px" style="padding-right:10px" src="https://logos-world.net/wp-content/uploads/2021/02/Google-Analytics-Logo.png" alt="Google Analytics">
+<img align="left" height="30px" style="padding-right:10px" src="https://cdn.worldvectorlogo.com/logos/google-pagespeed-insights-icon-2021-.svg" alt="google-pagespeed-insights">
 <br>
 
 ##
