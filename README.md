@@ -32,7 +32,7 @@
 <img align="left" height="30px" style="padding-right:10px" src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="Postman">
 <img align="left" height="30px" style="padding-right:10px" src="https://images.g2crowd.com/uploads/product/image/small_square/small_square_10f53e90961b98df0191922f13efd135/cypress.png" alt="cypress">
 <img align="left" height="30px" style="padding-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" alt="Selenium">
-<img align="left" height="30px" style="padding-right:10px" src="https://seeklogo.com/images/P/playwright-logo-22FA8B9E63-seeklogo.com.png" alt="playwright">
+<img align="left" height="30px" style="padding-right:10px" src="https://iconlogovector.com/uploads/images/2024/12/lg-676c8ff26c74d-Playwright.webp" alt="playwright">
 <img align="left" height="30px" style="padding-right:10px" src="https://static-00.iconduck.com/assets.00/appium-icon-255x256-5yix6ocd.png" alt="appium">
 <img align="left" height="30px" style="padding-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1200px-Telegram_2019_Logo.svg.png" alt="telegramBot">
 <img align="left" height="30px" style="padding-right:10px" src="https://cdn.freelogovectors.net/wp-content/uploads/2021/12/blockchain-com-logo-freelogovectors.net_.png" alt="blockchain">
@@ -46,9 +46,9 @@
 <img align="left" height="30px" style="padding-right:10px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git">
 <img align="left" height="30px" style="padding-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/240px-Vitejs-logo.svg.png" alt="vite">
 <img align="left" height="30px" style="padding-right:10px" src="https://static.wikia.nocookie.net/logopedia/images/a/a7/Vercel_favicon.svg/revision/latest?cb=20221026155821" alt="vercel">
-<img align="left" height="30px" style="padding-right:10px" src="https://seeklogo.com/images/N/netlify-icon-logo-7CF6AA9DC7-seeklogo.com.png" alt="netlify">
+<img align="left" height="30px" style="padding-right:10px" src="https://static-00.iconduck.com/assets.00/netlify-icon-2045x2048-j2yz3d5y.png" alt="netlify">
 <img align="left" height="30px" style="padding-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/App_Store_%28iOS%29.svg/512px-App_Store_%28iOS%29.svg.png" alt="App Store">
-<img align="left" height="30px" style="padding-right:10px" src="https://seeklogo.com/images/G/google-play-store-logo-A9F117BED5-seeklogo.com.png" alt="Play Market">
+<img align="left" height="30px" style="padding-right:10px" src="https://brandeps.com/logo-download/G/Google-Play-logo-01.png" alt="Play Market">
 <img align="left" height="30px" style="padding-right:10px" src="https://cdn.worldvectorlogo.com/logos/google-search-console.svg" alt="google search console">
 <img align="left" height="30px" style="padding-right:10px" src="https://logos-world.net/wp-content/uploads/2021/02/Google-Analytics-Logo.png" alt="Google Analytics">
 <img align="left" height="30px" style="padding-right:10px" src="https://cdn.worldvectorlogo.com/logos/google-pagespeed-insights-icon-2021-.svg" alt="google-pagespeed-insights">
