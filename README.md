@@ -21,7 +21,7 @@
 <img align="left" height="30px" style="padding-right:10px" src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" alt="express">
 <img align="left" height="30px" style="padding-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" alt="NestJS">
 <!-- <img align="left" height="30px" style="padding-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1024px-GraphQL_Logo.svg.png" alt="GraphQL"> -->
-<img align="left" height="30px" style="padding-right:10px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png" alt="mangoDB">
+<img align="left" height="30px" style="padding-right:10px" src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="mangoDB">
 <!-- <img align="left" height="30px" style="padding-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/f/fd/DynamoDB.png" alt="DynamoDB"> -->
 <img align="left" height="30px" style="padding-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/2048px-Socket-io.svg.png" alt="Socket.IO">
 <!-- <img align="left" height="30px" style="padding-right:10px" src="https://brandslogos.com/wp-content/uploads/images/large/aws-rds-logo.png" alt="RDS"> -->
