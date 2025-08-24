@@ -28,12 +28,12 @@
 <!-- <img align="left" height="30px" style="padding-right:10px" src="https://cdn.freebiesupply.com/logos/large/2x/mysql-5-logo-png-transparent.png" alt="MySQL"> -->
 <!-- <img align="left" height="30px" style="padding-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/120px-Postgresql_elephant.svg.png" alt="Postgresql"> -->
 <img align="left" height="30px" style="padding-right:10px" src="https://github.com/RomchikSt/RomchikSt/assets/140477189/cb87c0a8-556e-45ab-b1c1-42697dac985e" alt="supabase">
-<img align="left" height="30px" style="padding-right:10px" src="https://www.gstatic.com/devrel-devsite/prod/vc3f2c9e1a38bbf17d13dba368cd3cbb8fa1d62d936b55c84ca4c54c7df2da66a/firebase/images/touchicon-180.png" alt="firebase">
+<img align="left" height="30px" style="padding-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Firebase_Logo_%28No_wordmark%29_%282024-%29.svg/1200px-Firebase_Logo_%28No_wordmark%29_%282024-%29.svg.png" alt="firebase">
 <img align="left" height="30px" style="padding-right:10px" src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="Postman">
 <img align="left" height="30px" style="padding-right:10px" src="https://images.g2crowd.com/uploads/product/image/small_square/small_square_10f53e90961b98df0191922f13efd135/cypress.png" alt="cypress">
 <img align="left" height="30px" style="padding-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" alt="Selenium">
 <img align="left" height="30px" style="padding-right:10px" src="https://iconlogovector.com/uploads/images/2024/12/lg-676c8ff26c74d-Playwright.webp" alt="playwright">
-<img align="left" height="30px" style="padding-right:10px" src="https://static-00.iconduck.com/assets.00/appium-icon-255x256-5yix6ocd.png" alt="appium">
+<img align="left" height="30px" style="padding-right:10px" src="https://e7.pngegg.com/pngimages/366/527/png-clipart-appium-test-automation-software-testing-selenium-ios-logo-purple-violet.png" alt="appium">
 <img align="left" height="30px" style="padding-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1200px-Telegram_2019_Logo.svg.png" alt="telegramBot">
 <img align="left" height="30px" style="padding-right:10px" src="https://cdn.freelogovectors.net/wp-content/uploads/2021/12/blockchain-com-logo-freelogovectors.net_.png" alt="blockchain">
 <br>
@@ -46,7 +46,6 @@
 <img align="left" height="30px" style="padding-right:10px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git">
 <img align="left" height="30px" style="padding-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/240px-Vitejs-logo.svg.png" alt="vite">
 <img align="left" height="30px" style="padding-right:10px" src="https://static.wikia.nocookie.net/logopedia/images/a/a7/Vercel_favicon.svg/revision/latest?cb=20221026155821" alt="vercel">
-<img align="left" height="30px" style="padding-right:10px" src="https://static-00.iconduck.com/assets.00/netlify-icon-2045x2048-j2yz3d5y.png" alt="netlify">
 <img align="left" height="30px" style="padding-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/App_Store_%28iOS%29.svg/512px-App_Store_%28iOS%29.svg.png" alt="App Store">
 <img align="left" height="30px" style="padding-right:10px" src="https://brandeps.com/logo-download/G/Google-Play-logo-01.png" alt="Play Market">
 <img align="left" height="30px" style="padding-right:10px" src="https://cdn.worldvectorlogo.com/logos/google-search-console.svg" alt="google search console">
